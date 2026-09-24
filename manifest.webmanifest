@@ -1,0 +1,93 @@
+{
+  "name": "Excalidraw",
+  "short_name": "Excalidraw",
+  "start_url": "/excalidraw-live/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en",
+  "scope": "/excalidraw-live/",
+  "description": "Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "id": "excalidraw",
+  "theme_color": "#121212",
+  "file_handlers": [
+    {
+      "action": "/excalidraw-live/",
+      "accept": {
+        "application/vnd.excalidraw+json": [
+          ".excalidraw"
+        ]
+      }
+    }
+  ],
+  "share_target": {
+    "action": "/excalidraw-live/web-share-target",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "files": [
+        {
+          "name": "file",
+          "accept": [
+            "application/vnd.excalidraw+json",
+            "application/json",
+            ".excalidraw"
+          ]
+        }
+      ]
+    }
+  },
+  "screenshots": [
+    {
+      "src": "/excalidraw-live/screenshots/virtual-whiteboard.png",
+      "type": "image/png",
+      "sizes": "462x945"
+    },
+    {
+      "src": "/excalidraw-live/screenshots/wireframe.png",
+      "type": "image/png",
+      "sizes": "462x945"
+    },
+    {
+      "src": "/excalidraw-live/screenshots/illustration.png",
+      "type": "image/png",
+      "sizes": "462x945"
+    },
+    {
+      "src": "/excalidraw-live/screenshots/shapes.png",
+      "type": "image/png",
+      "sizes": "462x945"
+    },
+    {
+      "src": "/excalidraw-live/screenshots/collaboration.png",
+      "type": "image/png",
+      "sizes": "462x945"
+    },
+    {
+      "src": "/excalidraw-live/screenshots/export.png",
+      "type": "image/png",
+      "sizes": "462x945"
+    }
+  ]
+}
