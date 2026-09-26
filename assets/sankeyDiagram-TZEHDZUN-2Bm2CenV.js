@@ -8,3 +8,4 @@ ${b}${Math.round(E*100)/100}${M}`:g,"getText");o.append("g").attr("class","node-
 `).trim(),"prepareTextForParsing"),ue=p(t=>`.label {
       font-family: ${t.fontFamily};
     }`,"getStyles"),he=ue,fe=K.parse.bind(K);K.parse=t=>fe(ce(t));var de={styles:he,parser:K,db:re,renderer:le};export{de as diagram};
+//# sourceMappingURL=sankeyDiagram-TZEHDZUN-2Bm2CenV.js.map
