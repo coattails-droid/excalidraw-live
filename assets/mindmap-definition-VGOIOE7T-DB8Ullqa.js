@@ -66,3 +66,4 @@ Expecting `+B.join(", ")+", got '"+(this.terminals_[S]||S)+"'":W="Parse error on
     text-align: center;
   }
 `,"getStyles"),Te=ve,Re={get db(){return new Ne},renderer:Le,parser:De,styles:Te};export{Re as diagram};
+//# sourceMappingURL=mindmap-definition-VGOIOE7T-DB8Ullqa.js.map
