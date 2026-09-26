@@ -58,3 +58,4 @@ Expecting `+$.join(", ")+", got '"+(this.terminals_[g]||g)+"'":ut="Parse error o
     stroke-width: 1;
   }
 `,"getStyles"),te=$t,re={parser:Xt,get db(){return new qt},renderer:Nt,styles:te};export{re as diagram};
+//# sourceMappingURL=erDiagram-Q2GNP2WA-CAAp1W4-.js.map
