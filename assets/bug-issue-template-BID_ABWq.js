@@ -9,3 +9,4 @@ Paste scene content here
 
 ${e}
 `;export{t as default};
+//# sourceMappingURL=bug-issue-template-BID_ABWq.js.map
