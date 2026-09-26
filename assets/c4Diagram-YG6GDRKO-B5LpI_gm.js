@@ -8,3 +8,4 @@ Expecting `+Yt.join(", ")+", got '"+(this.terminals_[I]||I)+"'":Zt="Parse error 
     fill: ${e.personBkg};
   }
 `,"getStyles"),P0=D0,M0={parser:Ue,db:te,renderer:ye,styles:P0,init:g(({c4:e,wrap:t})=>{ye.setConf(e),te.setWrap(t)},"init")};export{M0 as diagram};
+//# sourceMappingURL=c4Diagram-YG6GDRKO-B5LpI_gm.js.map
